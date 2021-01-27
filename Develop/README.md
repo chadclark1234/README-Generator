@@ -7,22 +7,22 @@
   * [Challenges](#challenges)
   * [Repository URL](#repository-URL)
   * [Project URL](#project-URL)
-  * [Project Glimps](#Project-Glimps)
+  * [Project Glimpse](#Project-Glimpse)
   * [Credits](#credits)
   * [License](#license)
   
   ## Description
-  The README generator project is designed to take the users input based on a series of prompts and based on theose answers, generate a professional looking README.
+  The README generator is designed to ask the user a number of questions and based on those answers, generate a professional README.md file. This generator operates in NodeJS.
   ## Challenges
-  This was my first project working in NodeJS. It was quite a change from working in the Chrome browser.
+  This was my first project using NodeJS. I found it more difficult than what I am used to compared to working in the Chrome browser. The idea of building custom packages was strange at first but I can understand how this can lighten up our applications in the future as they get larger.
   ## Repository URL
-  [RepoLink](https://github.com/chadclark1234)
+  [Repository Link](https://github.com/chadclark1234)
   ## Project URL
   
-  [ProjectLink](https://github.com/chadclark1234/README-Generator)
+  [Project Link](https://github.com/chadclark1234/README-Generator)
   ## Project Glimpse
 
-  ![ProjectPic](NA)
+  ![ProjectPic](../images/readmevid.gif)
   ## Credits
   NA
   ## License

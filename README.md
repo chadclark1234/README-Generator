@@ -10,4 +10,4 @@ This was my first project using NodeJS. I found it more difficult than what I am
 
 https://github.com/chadclark1234/README-Generator
 
-![Pic](./images/screenshot.PNG)
+![](./images/readmevid.gif)

@@ -30,7 +30,7 @@ function generateMD({
   * [Challenges](#challenges)
   * [Repository URL](#repository-URL)
   * [Project URL](#project-URL)
-  * [Project Glimps](#Project-Glimps)
+  * [Project Glimpse](#Project-Glimpse)
   * [Credits](#credits)
   * [License](#license)
   
@@ -39,10 +39,10 @@ function generateMD({
   ## Challenges
   ${challenges}
   ## Repository URL
-  [RepoLink](${repositoryURL})
+  [Repository Link](${repositoryURL})
   ## Project URL
   
-  [ProjectLink](${projectURL})
+  [Project Link](${projectURL})
   ## Project Glimpse
 
   ![ProjectPic](${screenshot})
