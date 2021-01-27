@@ -39,9 +39,10 @@ function generateMD({
   ## Challenges
   ${challenges}
   ## Repository URL
-  ${repositoryURL}
+  [RepoLink](${repositoryURL})
   ## Project URL
-  ${projectURL}
+  
+  [ProjectLink](${projectURL})
   ## Project Glimps
 
   ![ProjectPic](${screenshot})
