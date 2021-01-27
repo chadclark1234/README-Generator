@@ -1,3 +1,4 @@
+// QUESTIONS FOR INQUIRER PROMPTS \\
 const questions = [
   {
     type: "input",
