@@ -43,7 +43,7 @@ function generateMD({
   ## Project URL
   
   [ProjectLink](${projectURL})
-  ## Project Glimps
+  ## Project Glimpse
 
   ![ProjectPic](${screenshot})
   ## Credits
